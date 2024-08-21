@@ -1,0 +1,139 @@
+[
+    {
+        "id": 1,
+        "nome": "Bolo de Banana",
+        "img": "../assets/bolo_cenoura.jpg.",
+        "categoria": "bolo de Banana",
+        "tempo_preparo": "50 minutos",
+        "rendimento": "6 pessoas",
+        "igredientes": [
+            "3 ovos",
+            "3 colheres de sopa de manteiga (ou margarina) em temperatura ambiente",
+            "1/2 xícara de chá de óleo (125 ml)",
+            "2 xícaras de chá de açúcar (400 gramas)",
+            "4 bananas maduras amassadas com o garfo",
+            "2 e 1/2 xícaras de chá de farinha de trigo (350 gramas)",
+            "1 xícara de chá de leite (240 ml)",
+            "1 pitada de sal",
+            "1 colher de chá de fermento químico em pó (fermento para bolo)",
+            "2 colheres de sopa de açúcar com canela em pó (para polvilhar)",
+            "2 colheres de sopa de canela em pó (para polvilhar)"
+        ],
+        "modopreparo": [
+            "1: Peneire a farinha de trigo para a massa ficar levinha. O leite não pode estar gelado e nem quente, a temperatura ideal é morno (você consegue colocar o dedo sem se queimar). Quebro os ovos em um recipiente para verificar se estão bons;",
+            "2: Enquanto prepara a massa, deixe o forno preaquecendo a 180 °C. Em uma tigela grande, coloque os ovos, a manteiga em temperatura ambiente e o açúcar. Com um fuê (batedor de bolo), bata essa mistura até formar um creme bem lisinho;",
+            "3: Adicione as bananas amassadas e a farinha peneirada. Com uma espátula, misture para incorporar os ingredientes. Não tem problema se ficar alguns pedacinhos maiores de banana - isso deixa o bolo charmoso. Não bata muito o trigo para não ativar o glúten;",
+            "4: Aos poucos, despeje o leite, mexendo apenas para incorporar os ingredientes;",
+            "5: Junte o sal e o fermento. Misture cuidadosamente para incorporar;",
+            "6: Despeje a massa em uma forma redonda com furo no meio (20 cm de diâmetro), untada e enfarinhada. Polvilhe açúcar e canela por cima da massa;",
+            "7: Leve ao forno preaquecido a 180 °C por cerca de 40 minutos. Faça o teste do palito: espete um palitinho no meio da massa, se ele sair seco, é porque está no pronto. Agora é só servir. Bom apetite!"
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Bolo de Limão",
+        "img": "",
+        "tempo_preparo": "60 minutos",
+        "rendimento": "8 pessoas",
+        "igredientes": [
+            "2 ovos (claras e gemas separados)",
+            "1 xícara de chá de leite",
+            "3 colheres de sopa de manteiga",
+            "1 e 1/2 xícara de chá de açúcar",
+            "Suco de 2 limões",
+            "Raspas de 1 limão",
+            "3 e 1/2 xícaras de chá de farinha de trigo",
+            "2 colheres de sopa de fermento químico em pó (fermento para bolos)",
+            "Manteiga para untar"
+        ],
+        "modopreparo": [
+            "1: No liquidificador, bata as gemas, o leite, a manteiga e o açúcar;",
+            "2: Despeje esse líquido em um recipiente e acrescente o suco e as raspas de limão. Misture com um fouet;",
+            "3: Aos poucos, vá adicionando a farinha de trigo, mexendo sempre;",
+            "4: Em outro recipiente, bata as claras em neve;",
+            "5: Incorpore as claras e o fermento na massa, mexendo delicadamente;",
+            "6: Despeje a massa em uma forma redonda com furo no meio (de 25 cm de diâmetro) untada com manteiga e leve ao forno preaquecido a 180 ºC por 40 minutos.",
+            "7: Em uma panela em fogo baixo, aqueça o leite condensado;",
+            "8: Adicione o suco de limão e misture até ficar um creme consistente;",
+            "9: Assim que o bolo estiver morno, desenforme e despeje a cobertura;",
+            "9: Decore com raspas de limão e está pronto! Sirva e aproveite."
+        ]
+    },
+    {
+        "id": 3,
+        "nome": "Bolo de Maça",
+        "img": "",
+        "tempo_preparo": "50 minutos",
+        "rendimento": "6 pessoas",
+        "igredientes": [
+            "2 ovos",
+            "2 maças (320g)",
+            "1/2 xícara de chá de óleo (125 ml)",
+            "1/2 xícara de chá de leite (125 ml)",
+            "1 xícara de chá de açúcar (140 gramas)",
+            "1 pitada de sal",
+            "2 xícaras de chá de farinha de trigo (280 gramas)",
+            "1 colher de sopa de fermento químico em pó (fermento para bolos)",
+            "Canela a gosto para polvilhar por cima das maçãs",
+            "Açúcar de confeiteiro a gosto para finalizar na decoração"
+        ],
+        "modopreparo": [
+            "1: Reúna os ingredientes para preparar esse bolo de maçã fofinho e irresistível para o café da tarde em família. DICA: unte a forma (24 cm) com manteiga ou margarina e enfarinhe. Já pré-aqueça o forno a 180ºC;",
+            "2: Utilize uma faca para descascar as maçãs. Você pode retirar a casca como se estivesse descascando uma laranja (em espiral) e reserve as cascas;",
+            "3: Receiteria Para fatiar as maçãs, corte-as ao meio e utilize a ponta da faca para retirar as sementes. Corte as metades em fatias nem muito grossas e nem finas demais. Repita o mesmo processo com a outra maçã e reserve;",
+            "4: Quebre os ovos e verifique se eles estão bons (cheiro e aspecto). Coloque-os em um liquidificador desligado, e acrescente o óleo, o sal, as cascas da maçã, o leite e o açúcar. Tampe-o e bata por cerca de 1 minuto ou até ficar homogêneo;",
+            "5: Despeje a mistura em uma tigela grande e acrescente um pouco da farinha de trigo. Misture com um fouet e adicione o restante da farinha. Mexa bem novamente;",
+            "6: Incremente o fermento e misture com o fouet apenas para incorporar, evite mexer em excesso;",
+            "7: Despeje a massa na forma untada e enfarinhada. Por cima, coloque as fatias de maçã uma do lado da outra e polvilhe canela em pó. Leve para assar por cerca de 30-35 minutos no forno preaquecico a 180ºC;",
+            "8: Após assar, utilize uma faca para desgrudar o bolo da forma e, se quiser, polvilhe açúcar de confeiteiro por cima;",
+            "9: Sirva esse bolo delicioso no seu café da manhã ou da tarde. Bom apetite!"
+        ]
+    },
+    {
+        "id": 4,
+        "nome": "Bolo de Cenoura",
+        "img": "",
+        "tempo_preparo": "60 minutos",
+        "rendimento": "6 pessoas",
+        "igredientes": [
+            "4 ovos",
+            "2 cenouras pequenas cortadas em rodelas",
+            "1/2 xícara de chá de óleo",
+            "2 xícaras de chá de açúcar",
+            "2 e 1/2 xícaras de chá de farinha de trigo (peneirada)",
+            "1 colher de sopa de fermento químico em pó (fermento para bolo)"
+        ],
+        "modopreparo": [
+            "1: Reúna todos os ingredientes da massa;",
+            "2: Coloque no liquidificador os ovos, as cenouras, o óleo e o açúcar. Bata até ficar homogêneo (cerca de 2 minutos);",
+            "3: Transfira para um recipiente grande, adicione a farinha (peneirada) e o fermento. Misture até incorporar;",
+            "4: Despeje a massa em uma forma redonda untada, enfarinhada e leva ao forno preaquecido a 180ºC por cerca de 40 minutos."
+        ]
+    },
+    {
+        "id": 5,
+        "nome": "Bolo de Cenoura",
+        "img": "",
+        "tempo_preparo": "60 minutos",
+        "rendimento": "6 pessoas",
+        "igredientes": [
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " "
+        ],
+        "modopreparo": [
+            "1: ",
+            "2: ",
+            "3: ",
+            "4: ",
+            "5: ",
+            "6: ",
+            "7: ",
+            "8: ",
+            "9: "
+        ]
+    }
+]

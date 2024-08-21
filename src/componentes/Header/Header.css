@@ -1,0 +1,19 @@
+header {
+    background: linear-gradient(to bottom, rgb(255, 123, 83), orange);
+    height: 12rem;
+    display: flex;
+    
+  
+    & .logo {
+      width: 10em;
+    }
+  
+    & .menu {
+      display: flex;
+    }
+  
+  
+    li {
+      list-style: none;
+    }
+  }
