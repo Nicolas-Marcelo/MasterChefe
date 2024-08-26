@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.detalhe-caixa {
+    background-color: #fde7d4;
+    margin: 2rem;
+    border: 1px solid black;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    width: 60rem;
+
+    & .detalhe-nome {
+        background-color: #ff593c;
+        display: flex;
+        padding: 0.3em 0em;
+        justify-content: center;
+        border: 1px solid black;
+        border-top-right-radius: 40px;
+        border-top-left-radius: 40px;
+        width: 100%;
+        color: black;
+    }
+
+    & .detalhe-info {
+        padding: 0 1em;
+        width: 95%;
+        display: flex;
+        margin: 0.5em 0;
+
+        & .detalhe-imagem {
+            width: 50%;
+            border-radius: 20px;
+            border: 1px solid black;
+        }
+
+
+        & .detalhe-descricao {
+            width: 95%;
+            padding: 0 1em;
+            text-align: justify;
+        }
+    }
+
+& .detalhe-passos {
+    display: flex;
+
+    & .detalhe-ingrediente {
+        margin: 1em;
+        width: 50%;
+
+        & input {
+            margin-right: 0.6em;
+        }
+
+        & li {
+            background-color: rgb(255, 255, 255);
+            padding: 0.4em 0;
+            border: 1px solid black;
+            border-radius: 10px;
+            margin: 0.5em 0;
+            padding: 5px;
+        }
+    }
+
+    & .detalhe-preparo {
+        margin: 1em;
+        width: 50%;
+
+        & li {
+            background-color: rgb(255, 255, 255);
+            border: 1px solid black;
+            border-radius: 10px;
+            padding: 0.5em;
+            margin: 0.5em 0;
+        }
+    }
+}
+
+& .detalhe-link {
+    background-color: #dd8f82;
+    color: beige;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 1em;
+    margin: 0 0 1.5em 0;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+}
