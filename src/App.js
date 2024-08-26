@@ -5,7 +5,7 @@ import ReceitaDetalhes from "./PastasAPI/ReceitaDetalhes";
 import Header from "./componentes/Header/Header";
 import Bolos from './rotas/Bolos';
 
-const App = () => {
+function App () {
   return (
     <body>
       <Header />
