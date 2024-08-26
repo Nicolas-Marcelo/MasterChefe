@@ -31,14 +31,14 @@ const Home = () => {
     <div>
       <h1>Página Inicial</h1>
       {posts.slice(0, 20).map(post => (
-        <div className="caixa">
+        <div className="home-caixa">
           <div key={post.id}>
-            <h2 className="nome">{post.nome}</h2>
-            <img src={post.img} alt="imagem da receita" />
+            <h2 className="home-nome">{post.nome}</h2>
+            <img src={post.img} alt="imagem da receita" className="home-imagem" />
             <h3>{post.rendimento}</h3>
             <h3>{post.tempo_preparo}</h3>
             <p>{post.igredientes.slice(0, 0)}</p> {/* Exibe um resumo do conteúdo */}
-            <Link to={`/post.json/${post.id}`}>Ver mais</Link> {/* Botão para ver mais detalhes */}
+            <Link to={`/post.json/${post.id}`} className="home-link">Ver mais</Link> {/* Botão para ver mais detalhes */}
           </div>
         </div>
       ))}
