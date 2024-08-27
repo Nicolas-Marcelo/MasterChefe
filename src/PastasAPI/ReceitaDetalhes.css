@@ -4,7 +4,7 @@
 }
 
 .detalhe-caixa {
-    background-color: #fde7d4;
+    background-color: #feffd2;
     margin: 2rem;
     border: 1px solid black;
     border-radius: 40px;
@@ -15,7 +15,7 @@
     width: 60rem;
 
     & .detalhe-nome {
-        background-color: #ff593c;
+        background-color: #ff7d29;
         display: flex;
         padding: 0.3em 0em;
         justify-content: center;
@@ -82,8 +82,8 @@
 }
 
 & .detalhe-link {
-    background-color: #dd8f82;
-    color: beige;
+    background-color: #ffbf78;
+    color: black;
     border: 1px solid black;
     border-radius: 20px;
     padding: 1em;
